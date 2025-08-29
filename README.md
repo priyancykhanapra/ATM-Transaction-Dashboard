@@ -1,4 +1,3 @@
-# ATM-Transaction-Dashboard
 # ATM Transaction Dashboard 💳📊
 
 This dashboard provides an overview of ATM transactions including withdrawals, deposits, and balance inquiries.  
